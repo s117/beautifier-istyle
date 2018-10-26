@@ -11,6 +11,6 @@
   "license": "MIT",
   "main": "./lib/beautifier-istyle",
   "name": "beautifier-istyle",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": "https://github.com/s117/beautifier-istyle.git"
 }
