@@ -1,0 +1,15 @@
+{
+  "activationCommands": {
+    "atom-text-editor": "beautifier-istyle:format"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "ctrl-alt-l to invoke iStyle Verilog Beautifier in Atom.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "license": "MIT",
+  "main": "./lib/beautifier-istyle",
+  "name": "beautifier-istyle",
+  "version": "0.1.0"
+}
